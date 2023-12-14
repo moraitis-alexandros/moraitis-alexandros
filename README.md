@@ -29,13 +29,13 @@ Passionate about optimizing transport and logistics processes with a flair for d
 - **Ready** to contribute expertise in logistics optimization, analytics, and machine learning to innovate and drive success across supply chain management, sales, and marketing domains.
 ---  
 ### **Projects:**
-- **SAS-based Logistics Analysis Project:**
+- **“Analyzing Real-World POS Data:Unveiling Consumer Behavior and Strategic Insights using SAS Software”**
   - Developed an end-to-end project utilizing SAS for RFM analysis, association rules, and decision tree modeling, enhancing logistics, marketing & sale strategies.
 
-- **RapidMiner RFM Analysis:**
+- **Customer Base Segmentation with RFM Methodology and Clustering using Rapidminer Software":**
   - Implemented RFM analysis using RapidMiner, extracting valuable insights to optimize sales operations.
 
-- **Airbnb Data Warehouse & Pipeline:**
+- **Athens Airbnb Data Warehouse & Insights: SQL Transformation, ETL Pipeline and Power BI Visualization:**
   - Engineered a data warehouse in SQL Server using Airbnb data for the city of Athens, constructing a robust pipeline to extract, clean, and transform data with a star schema for efficient querying. Presented insights through Power BI visualization.
 
 - **EOQ Model Implementation with Python:**
