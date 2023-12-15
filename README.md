@@ -30,13 +30,16 @@ Passionate about optimizing transport and logistics processes with a flair for d
 ---  
 ### **Projects:**
 - **Analyzing Real-World POS Data: Unveiling Consumer Behavior and Strategic Insights using SAS Software**
+  
   - Developed an end-to-end project utilizing SAS for RFM analysis, association rules, and decision tree modeling, enhancing logistics, marketing & sale strategies.
 
-- [**Unlock Customer Insights: RFM Segmentation & Clustering with RapidMiner Software:**]([https://github.com/username/repository](https://github.com/moraitis-alexandros/customer-segmentation-using-rapidminer))
-  - Implemented RFM analysis using RapidMiner, extracting valuable insights to optimize sales operations.
-
-- **Athens Airbnb Data Warehouse & Insights: SQL Transformation, ETL Pipeline and Power BI Visualization:**
+- [**Athens Airbnb Data Warehouse & Insights: SQL Transformation, ETL Pipeline and Power BI Visualization:**](https://github.com/moraitis-alexandros/Athens-Airbnb-Data-Warehouse)
+  
   - Engineered a data warehouse in SQL Server using Airbnb data for the city of Athens, constructing a robust pipeline to extract, clean, and transform data with a star schema for efficient querying. Presented insights through Power BI visualization.
+    
+- [**Unlock Customer Insights: RFM Segmentation & Clustering with RapidMiner Software:**](https://github.com/moraitis-alexandros/customer-segmentation-using-rapidminer)
+  
+  - Implemented RFM analysis using RapidMiner, extracting valuable insights to optimize sales operations.
 
 - **EOQ Model Implementation with Python:**
   - Applied EOQ models using Python, enhancing inventory management and supply chain efficiency.
