@@ -29,7 +29,7 @@ Passionate about optimizing transport and logistics processes with a flair for d
 - **Ready** to contribute expertise in logistics optimization, analytics, and machine learning to innovate and drive success across supply chain management, sales, and marketing domains.
 ---  
 ### **Projects:**
-- **Analyzing Real-World POS Data: Unveiling Consumer Behavior and Strategic Insights using SAS Software**
+- [**Analyzing Real-World POS Data: Unveiling Consumer Behavior and Strategic Insights using SAS Software**](https://github.com/moraitis-alexandros/Analyzing-Real-World-POS-Data-Unveiling-Consumer-Behavior-and-Strategic-Insights-using-SAS-Software)
   
   - Developed an end-to-end project utilizing SAS for RFM analysis, association rules, and decision tree modeling, enhancing logistics, marketing & sale strategies.
 
