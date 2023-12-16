@@ -44,8 +44,8 @@ Passionate about optimizing transport and logistics processes with a flair for d
 - **EOQ Model Implementation with Python:**
   - Applied EOQ models using Python, enhancing inventory management and supply chain efficiency.
 
-- **Twitter Data Scraping for Business Insights:**
+- **Twitter Data Scraping for Business Insights:** (in progerss)
   - Scraped Twitter data of a company, extracting valuable insights to aid in strategic decision-making.
 
-- **Python-based Routing Problem Solution:**
+- **Python-based Routing Problem Solution:** (in progerss)
   - Developed a Python solution for routing problems, optimizing transport logistics for efficient delivery routes.
