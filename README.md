@@ -1,7 +1,7 @@
 ## Logistics & Data Analytics Enthusiast | MSc in Management of Science & Technology
 
 ## **About Me:**
-**[My LinkedIn Profile](www.linkedin.com/in/moraitisalexandros)**
+**[My LinkedIn Profile](https://www.linkedin.com/in/moraitisalexandros/)**
 
 Passionate about optimizing transport and logistics processes with a flair for data analytics, business intelligence, and machine learning applications. My journey spans military logistics expertise combined with advanced skills in leveraging data for insightful decision-making. 
 
