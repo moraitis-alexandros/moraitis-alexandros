@@ -43,9 +43,3 @@ Passionate about optimizing transport and logistics processes with a flair for d
 
 - [**EOQ Model Implementation with Python:**](https://github.com/moraitis-alexandros/Inventory-Optimization-with-Python)
   - Applied EOQ model & simulation techniques using Python, enhancing inventory management and supply chain efficiency.
-
-- **Twitter Data Scraping for Business Insights:** (in progress)
-  - Scraped Twitter data of a company, extracting valuable insights to aid in strategic decision-making.
-
-- **Python-based Routing Problem Solution:** (in progress)
-  - Developed a Python solution for routing problems, optimizing transport logistics for efficient delivery routes.
