@@ -38,6 +38,9 @@ Problem solver with a strong background in logistics and transportation, transit
 ### **Projects:**
 - [**Fuel Distribution Optimization Using Java & CPLEX**](https://github.com/moraitis-alexandros/cplex-fuel-distribution-optimization-problem)
   - Developed a Mixed Integer Linear Programming (MILP) model and a Greedy Algorithm to optimize fuel distribution from a single depot to multiple storage tanks, ensuring efficient time scheduling for loading, unloading, and delivery.
+ 
+- [**Tree Based 2D Bin Packing System**](https://github.com/moraitis-alexandros/tree-Based-2-Dimensional-Bin-Packing-System)
+  - This Java program implements a tree-based 2D bin packing algorithm to optimize space utilization in packing items into bins. It dynamically places items in available spaces, using upright and sideways orientations, while merging tree structures to maximize bin capacity and minimize wasted space.
 
 - [**Analyzing Real-World POS Data: Unveiling Consumer Behavior and Strategic Insights using SAS Software**](https://github.com/moraitis-alexandros/Analyzing-Real-World-POS-Data-Unveiling-Consumer-Behavior-and-Strategic-Insights-using-SAS-Software)
   
