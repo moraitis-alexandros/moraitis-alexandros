@@ -1,19 +1,19 @@
-## Logistics & Data Analytics Enthusiast | MSc in Management of Science & Technology
+## Junior Java Developer | Logistics Optimization & Data Analytics | MSc in Management of Science & Technology
 
 ## **About Me:**
 **[My LinkedIn Profile](https://www.linkedin.com/in/moraitisalexandros/)**
 
 Problem solver with a strong background in logistics and transportation, transitioning into software engineering. With 8 years of military logistics experience, I now focus on Java development, data analytics, and optimization models to create efficient and scalable solutions.
 
-🔹 Passionate about backend development, business intelligence, and data-driven decision-making
-🔹 Strong foundation in Java, SQL, and algorithmic problem-solving
-🔹 Excited about leveraging technology to optimize logistics, process automation, and software development
+- 🔹 Passionate about backend development, business intelligence, and data-driven decision-making
+- 🔹 Strong foundation in Java, SQL, and algorithmic problem-solving
+- 🔹 Excited about leveraging technology to optimize logistics, process automation, and software development
 
 **Connect with me for discussions on logistics, data analytics, and the fusion of both worlds!**
 
 ### **Skills:**
 - **Java Development: JSF, PrimeFaces, CPLEX Libraries, Spring Boot (Basic)**
-- **ETL Processes using Microsoft Visual Studio**
+- **ETL Processes using SSIS - SSMS**
 - **Actively enhancing my skills in Software Engineering Concepts, including OOP, Design Patterns, and REST APIs.**
 - **Inventory & Route Optimization**
 - **Business Intelligence & Data Analytics Applications**
@@ -26,14 +26,14 @@ Problem solver with a strong background in logistics and transportation, transit
 
 ---
 ### **Certifications:**
-  - **SAS Academic Specialization in BI and Machine Learning.**
-  - **Microsoft Azure AI-900**
-  - **Salesforce Admin Certification**
+  - SAS Academic Specialization in BI and Machine Learning.
+  - Microsoft Azure AI-900
+  - Salesforce Admin Certification
 ---
 ### **Seeking Opportunities:**
-💡 Junior Java Developer role in backend development, business intelligence, or logistics-tech.
-📊 Interested in data-driven software solutions, process optimization, and scalable architectures.
-🚀 Excited to contribute my Java programming skills, logistics expertise, and analytical mindset to impactful projects.
+- 💡 Junior Java Developer role in backend development, business intelligence, or logistics-tech.
+- 📊 Interested in data-driven software solutions, process optimization, and scalable architectures.
+- 🚀 Excited to contribute my Java programming skills, logistics expertise, and analytical mindset to impactful projects.
 ---  
 ### **Projects:**
 - [**Fuel Distribution Optimization Using Java & CPLEX**](https://github.com/moraitis-alexandros/cplex-fuel-distribution-optimization-problem)
@@ -53,3 +53,4 @@ Problem solver with a strong background in logistics and transportation, transit
 
 - [**EOQ Model Implementation with Python:**](https://github.com/moraitis-alexandros/Inventory-Optimization-with-Python)
   - Applied EOQ model & simulation techniques using Python, enhancing inventory management and supply chain efficiency.
+---
