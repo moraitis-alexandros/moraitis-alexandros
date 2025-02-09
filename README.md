@@ -9,7 +9,7 @@ Problem solver with a strong background in logistics and transportation, transit
 - 🔹 Strong foundation in Java, SQL, and algorithmic problem-solving
 - 🔹 Excited about leveraging technology to optimize logistics, process automation, and software development
 
-**Connect with me for discussions on logistics, data analytics, and the fusion of both worlds!**
+**Connect with me for discussions on coding, optimization and the fusion of both worlds!**
 
 ### **Skills:**
 - **Java Development: JSF, PrimeFaces, CPLEX Libraries, Spring Boot (Basic)**
