@@ -1,4 +1,4 @@
-## Junior Java Developer | Logistics Optimization & Data Analytics | MSc in Management of Science & Technology
+## Java Developer | Logistics Optimization & Data Analytics | MSc in Management of Science & Technology
 
 ## **About Me:**
 **[My LinkedIn Profile](https://www.linkedin.com/in/moraitisalexandros/)**
