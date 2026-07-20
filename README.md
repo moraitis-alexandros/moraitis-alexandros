@@ -12,17 +12,15 @@ Problem solver with a strong background in logistics and transportation, transit
 **Connect with me for discussions on coding, optimization and the fusion of both worlds!**
 
 ### **Skills:**
-- **Java Development: JSF, PrimeFaces, CPLEX Libraries, Spring Boot (Basic)**
+- **Java, Jakarta, CPLEX Libraries, Git, Maven**
 - **ETL Processes using SSIS - SSMS**
-- **Actively enhancing my skills in Software Engineering Concepts, including OOP, Design Patterns, and REST APIs.**
+- **Oracle DB, OAQ, Weblogic**
 - **Inventory & Route Optimization**
 - **Business Intelligence & Data Analytics Applications**
 - **Machine Learning Models Development**
 - **RFM Analysis | Decision Trees | Association Rules**
 - **SAS Technologies | RapidMiner |**
 - **Process Operations Management | Queue Theory | Capacity Planning (EOQ Model)**
-- **Visualizations using Power BI**
-- **Version Control with Git**
 
 ---
 ### **Certifications:**
@@ -31,11 +29,16 @@ Problem solver with a strong background in logistics and transportation, transit
   - Salesforce Admin Certification
 ---
 ### **Seeking Opportunities:**
-- 💡 Junior Java Developer role in backend development, business intelligence, or logistics-tech.
+- 💡 Java Developer role in backend development, optimization.
 - 📊 Interested in data-driven software solutions, process optimization, and scalable architectures.
 - 🚀 Excited to contribute my Java programming skills, logistics expertise, and analytical mindset to impactful projects.
 ---  
 ### **Projects:**
+
+
+- [**Traveling Salesman Problem (TSP) Route Planning Application Using Java, Angular & OpenMap**](https://github.com/moraitis-alexandros/aueb-cf-repo)
+  - A simple routing application that allows users to create maps, manage trucks and location nodes, and calculate optimal routes using a greedy algorithm. Built with JAX-RS, Angular, MySQL, Docker, Leaflet, and JWT authentication, it integrates OpenMap data to visualize routes, with some limitations on large node sets.
+
 - [**Fuel Distribution Optimization Using Java & CPLEX**](https://github.com/moraitis-alexandros/cplex-fuel-distribution-optimization-problem)
   - Developed a Mixed Integer Linear Programming (MILP) model and a Greedy Randomized Algorithm to optimize fuel distribution from a single depot to multiple storage tanks, ensuring efficient time scheduling for loading, unloading, and delivery.
  
